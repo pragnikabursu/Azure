@@ -1,2 +1,0 @@
-# Azure
-My_Project
